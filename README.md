@@ -8,9 +8,9 @@ Hello world, I want you to introduce my brand new logo project. This logo is for
 
 
 
-![](SJ%20progres/dev_page.png)
+![](dev_page.png)
 
-![](SJ%20progres/dev_page1.png)
+![](dev_page1.png)
 
 
 
