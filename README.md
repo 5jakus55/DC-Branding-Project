@@ -38,7 +38,7 @@ After finishing my logo, I started creating my future website named SJ Develop. 
 
 ## Business card
 I also created a business card with dimensions 85x55mm in Adobe Illustrator for my project. I wanted to keep it simple, so I chose black colour font and white canvas. I used for the business card same font as for Logo - Adobe 宋体 Std L. On the left front size are all important information about company, such as telephone number, email, website, address and on the right front size is QR code for this GitHub page. I created my QR code on website named FLOWCODE. I am presenting myself as a web developer and designer, so It is also stated under my whole name. On the left top corner is shining my SJ icon logo, and on the back of the business card is my official black logo.
-
+<img src="Vcard_front-01.jpg" width="100" >
 ![](Vcard_front-01.jpg)
 ![](PSD_3.jpg)
 
