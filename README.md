@@ -46,11 +46,14 @@ I also created a business card with dimensions 85x55mm in Adobe Illustrator for 
 After I finished all my outputs, I focused on creating a style guide. My style guide consists of logo styles, colours I used for logo and website, typography and QR codes I used for Behance and GitHub. On the left side is shown my official logo in three colours and an Icon with official purple colour (logo without word develop). ( I also added only icons in three different colours on the next page. ) My website consists mainly of light colours, such as light pink and light grey. I wanted to keep the look of the page more neutral and light so my logo can be seen very well and shine. I also used basic colours such as white, black and dark grey to highlight main buttons on page. I used font SEGOE UI for my website, because this font gives me feeling of trust and friendship yet it looks simple and reliably. I chose for my logo and business card font Adobe 宋体 Std L. This font gives me feelings of luxury, precision and professionalism. The last part of style guide are QR codes. I wanted to add something modern and popular to my project and I think that QR codes were the best option. QR code is a machine-readable code consisting of an array of black and white squares, typically used for storing URLs or other information for reading by the camera on a smartphone. I created two QR codes. One for my GitHub page, which is on a business card, and second one that is for Behance webpage. If you have smartphone with automatic QR code scanner such as Iphone, just open your Camera app and point it steadily for 2-3 seconds towards the QR Code you want to scan. I f you don’t have QR code scanner in your smartphone, there are also free apps you can download to your device.
 
 ![](Behance_official_sj-03.jpg)
+![](qr_codes.jpg)
 
 ## Final words
 I did this project for the assessment for Digital Creativity at Solent University.I shared with my boyfriend and friends my sketches and ideas and they also helped me to gain the final look of the logo. I personaly love the look of SJ logo and I am really proud of it. I would love if you leave your comment and give me some feedback. I also created project on Behance, where you can see all my outputs in one page and you will also see my logo on different platforms. I will put here a link for Behance or you can also scan a QR code below to jump into page. You can also watch my PROMO video which is below and where I am simply describing my whole branding project.
 
-###### Link for Behance
+#### Link for Behance
+[](https://www.behance.net/gallery/107433283/SJ-Develop-Branding-Project?)
+![](behance_code.jpg)
 
 
 
