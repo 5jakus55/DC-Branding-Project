@@ -58,11 +58,11 @@ I did this project for the assessment for Digital Creativity at Solent Universit
 
 
 ## Sources
-[CodeFirst](https://www.codefirst.co.uk)
-[Syberry](https://www.syberry.com/?utm_source=themanifest.com&utm_medium=referral&utm_campaign=software-development)
-[SJ research](https://www.google.com/search?q=sj+logo&safe=strict&sxsrf=ALeKk021wyP3PVAq3UCeMmr_GBSKz83S7g:1605713478598&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjF0ILstIztAhVlqnEKHW-nCykQ_AUoAXoECAsQAw&biw=1707&bih=821)
-[Linkedin video](https://www.linkedin.com/learning/design-your-first-logo/discover-logo-design?u=56747793)
-[Mockflow](https://www.mockflow.com)
+[CodeFirst](https://www.codefirst.co.uk) ,
+[Syberry](https://www.syberry.com/?utm_source=themanifest.com&utm_medium=referral&utm_campaign=software-development) ,
+[SJ research](https://www.google.com/search?q=sj+logo&safe=strict&sxsrf=ALeKk021wyP3PVAq3UCeMmr_GBSKz83S7g:1605713478598&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjF0ILstIztAhVlqnEKHW-nCykQ_AUoAXoECAsQAw&biw=1707&bih=821) ,
+[Linkedin video](https://www.linkedin.com/learning/design-your-first-logo/discover-logo-design?u=56747793) ,
+[Mockflow](https://www.mockflow.com) ,
 [Flowcode](https://www.flowcode.com)
 
 
