@@ -6,6 +6,10 @@
 
 Hello world, I want you to introduce my brand new logo project. This logo is for my development company named SJ Develop. It is software development company with high-qualified developers. I did research on many development companies and logos to gain the most precise quality and look of logo. My project composes of RESEARCH, where I am describing what logos and websites were most inspiring for me, SKETCHES, where you can see all my initial drawings, FINAL LOGO PROCESS in which I am describing process of creating a final logo, PAGE, where I am writing about approach of creating a website, BUSSINESS CARD that I present as my own business card as a web designer and developer, STYLE GUIDE, which is a set of standards that defines my company’s branding and where I am explaining which colours I used, what fonts I applied and also final look of logo, FINAL WORDS about my project and RESOURCES.
 
+## Research
+
+On the internet are many great logos, But only four main SJ logos gained my attention. They are very modern, absorbing and creative. The main colours that were used are black, white, grey and blue. All logos use round simple shapes, which make them memorable and all logos use their unique font. I like that letters are united, but all of them in a different way. I did my research also on social app named instagram. I found accounts called @logoworldofficial and @logohero, which are really great communities with adorable logos that inspired me. For me are the most inspiring development companies CodeFirst and Syberry. The simple yet interesting look of their websites gives the feeling of trust and precision. Both companies show their skills, introduce their work, knowledge and sharing the brands they are working with. I like that they are explaining all steps of their work so even unskilled people in this industry will know what they exactly want  from the company.  I love the motto of CodeFirst company –  We deliver the software you need. No more, no less.
+
 ![](dev_page.png)
 ![](sj_brands-01.jpg)
 ![](dev_page1.png)
