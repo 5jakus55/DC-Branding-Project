@@ -62,6 +62,8 @@ I did this project for the assessment for Digital Creativity at Solent Universit
 ## Promo video
 [Link for PROMO VIDEO](https://youtu.be/MB97MjcW060)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MB97MjcW060" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Sources
 [CodeFirst](https://www.codefirst.co.uk) ,
 [Syberry](https://www.syberry.com/?utm_source=themanifest.com&utm_medium=referral&utm_campaign=software-development) ,
