@@ -53,13 +53,13 @@ After I finished all my outputs, I focused on creating a style guide. My style g
 ![](icon_official-01.jpg)
 ![](qr_codes.jpg)
 
-## Final words
+## Final words :boom:
 I did this project for the assessment for Digital Creativity at Solent University.I shared with my boyfriend and friends my sketches and ideas and they also helped me to gain the final look of the logo. I personaly love the look of SJ logo and I am really proud of it. I would love if you leave your comment and give me some feedback. I also created project on Behance, where you can see all my outputs in one page and you will also see my logo on different platforms. I will put here a link for Behance or you can also scan a QR code below to jump into page. You can also watch my PROMO video which is below and where I am simply describing my whole branding project.
 
 [LINK FOR BEHANCE](https://www.behance.net/gallery/107433283/SJ-Develop-Branding-Project?)
 ![](behance_code.jpg)
 
-## Promo video
+## Promo video :camera:
 [Link for PROMO VIDEO](https://youtu.be/MB97MjcW060)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MB97MjcW060" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
